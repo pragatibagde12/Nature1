@@ -1,4 +1,4 @@
-#pulling the minimal Ubuntu Image
+#pulling the minimal tomcat Image
 FROM tomcat
 #Maintainer Name
 MAINTAINER "pragatibagde12@gmail.com"
